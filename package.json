@@ -1,0 +1,25 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Learning Gulp!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoEC/Gulp-basics.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Rodrigo E. Cavalcanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoEC/Gulp-basics/issues"
+  },
+  "homepage": "https://github.com/RodrigoEC/Gulp-basics#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
